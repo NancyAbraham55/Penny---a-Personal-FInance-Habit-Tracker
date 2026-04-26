@@ -2,7 +2,7 @@
 
 A gamified personal savings tracker built with Python and Streamlit. Log small financial wins, earn XP, and grow a named tree — with full multi-currency support calibrated by purchasing power parity.
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-app-red) ![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-app-red) 
 
 ---
 
